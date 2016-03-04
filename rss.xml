@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Tecnologia para Saúde]]></title>
         <description><![CDATA[Tecnologia para Saúde]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xmedika/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:15:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 20:29:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xmedika/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Como fazer gestão de tempo no consultório? - Consultório 2.0]]></title>
+            <description><![CDATA[<article><h1>Como fazer gestão de tempo no consultório? - Consultório 2.0</h1><p>Para um consultório médico, a rotina se torna um caos quando a gestão de tempo não é bem executada. O reflexo de tal situação são salas de espera cheias de pacientes, que certamente não se sentem nada satisfeitos com a demora dos atendimentos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6d601de60aa782590301ddad23ed090834777c8.jpg"></article>]]></description>
+            <link>http://www.consultorio20.com.br/como-fazer-gestao-de-tempo-no-consultorio/</link>
+            <guid isPermaLink="false">5f9e8b94-691e-4833-a4b2-6487aa0353ac</guid>
+            <pubDate>Fri, 04 Mar 2016 20:25:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined80ff03f0-33e4-4aa8-8e3a-846576d59839/index.html</link>
+            <description><![CDATA[<p>Bem vindo à xMedika!</p>]]></description>
+            <link>https://thegrid.ai/xmedika/80ff03f0-33e4-4aa8-8e3a-846576d59839/index.html</link>
             <guid isPermaLink="false">80ff03f0-33e4-4aa8-8e3a-846576d59839</guid>
             <pubDate>Fri, 04 Mar 2016 20:13:14 GMT</pubDate>
         </item>
